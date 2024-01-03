@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Content = () => {
     return (
-        <Container>content</Container>
+        <Container>conten231231231t</Container>
     )
 }
 
