@@ -13,7 +13,8 @@ class App extends React.Component {
           placeholder="테마를 입력하세요"
           onKeyPress={this.handleInputKeyPress}
         ></Input>
-        <Content/>
+        <Content>
+        </Content>
       </Container>
     );
   }
